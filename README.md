@@ -1,3 +1,3 @@
 # Packet Tracer - Multi-tire + BGP + OSPF
 
-![Network Img](Network-Multi-Tier model.png)
+![Network Img](https://github.com/cybermaniax/packet-tracer-samples/blob/main/Network-Multi-Tier%20model.png)
